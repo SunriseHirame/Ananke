@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Hiramesaurus.Ananke
+namespace Hirame.Ananke
 {
     public struct DelayedAction : IDelayedAction
     {

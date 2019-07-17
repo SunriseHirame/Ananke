@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Hiramesaurus.Ananke
+namespace Hirame.Ananke
 {
     public sealed class AnankeManager : MonoBehaviour
     {
